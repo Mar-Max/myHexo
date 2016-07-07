@@ -1,0 +1,9 @@
+{
+    "social": {
+        "github": "https://github.com/Mar-Max",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "raytaylorlin": "https://github.com/raytaylorlin/hexo-theme-raytaylorism"
+    }
+}
